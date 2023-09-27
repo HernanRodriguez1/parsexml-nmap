@@ -58,9 +58,12 @@ We can perform a proof of concept of enumeration with nmap using the 20 options,
 ```sh
 sudo python3 parse-nmap.py
 ```
-![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/f4ddc839-c9c6-446c-930a-695b78fbd626)
-![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/52210a1c-b71b-4d29-8dc5-782294fc1b32)
+![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/010ddd8e-b8ba-4f48-95bf-6f3756f2fa5f)
+
+![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/57dd5ee4-4ec0-4e3e-82c1-e4b80c7a7d43)
+
 
 Extract all data in CSV format with the following structure
 
-![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/0c31a975-f9fe-4d29-b07f-e0d363da7801)
+![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/4f505801-0078-4099-901d-f4e25a2cde64)
+
