@@ -43,10 +43,6 @@ sudo masscan --open 200.x.x.0/24 --ports 0-65535 --rate=2000 -oX masscan.xml
 ![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/479a75bf-e9a1-4443-8655-573fb03e1e9d)
 
 
-Extract all data in CSV format with the following structure
-
-![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/0c31a975-f9fe-4d29-b07f-e0d363da7801)
-
 ## Rustscan
 
 ```sh
@@ -62,3 +58,7 @@ sudo python3 parse-nmap.py
 ```
 ![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/f4ddc839-c9c6-446c-930a-695b78fbd626)
 ![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/52210a1c-b71b-4d29-8dc5-782294fc1b32)
+
+Extract all data in CSV format with the following structure
+
+![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/0c31a975-f9fe-4d29-b07f-e0d363da7801)
