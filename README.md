@@ -34,9 +34,6 @@ The added value of parsexml-nmap is the scan menu that allows queries from any h
 ```sh
 nmap -sS -p- --open --min-rate 5000 192.168.100.5 -vvv  -oX nmap.xml
 ```
-![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/05af8653-1f43-43f5-995d-4b2f0fa3a02f)
-![image](https://github.com/HernanRodriguez1/parsexml-nmap/assets/66162160/ffb1754f-0a49-497f-b58f-7f9ac1db0b1c)
-
 
 ## Masscan
 
