@@ -6,7 +6,7 @@ The added value of parsexml-nmap is the scan menu that allows queries from any h
 ## Information
 
 ```sh
-1- PortSYN Scan -sS: Scanning TCP ports using SYN packets. Useful for discovering services without being intrusive."
+    1- PortSYN Scan -sS: Scanning TCP ports using SYN packets. Useful for discovering services without being intrusive."
     2- PortTCP Scan -sT: Scanning TCP ports using full connections. Useful for stealth scanning, but slower."
     3- PortUDP Scan -sU: UDP port scanning for less common services. It can be slow and less reliable."
     4- Null scan -sN: Null scan that does not set flags in the packet. Useful for evading certain firewall defenses."
